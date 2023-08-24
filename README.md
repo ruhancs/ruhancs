@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Desenvolvedor Backend
 ---------------------
 
-Desenvolvedor backend em Node.js, Python e Rust , familiarizado com algumas de suas ferramentas e frameworks
+Desenvolvedor backend em Node.js, C# e GO , familiarizado com algumas de suas ferramentas e frameworks
 
 * 🌍  I'm based in Rio grande do Sul
 * ✉️  You can contact me at [ruhancorreasoares@gmail.com](mailto:ruhancorreasoares@gmail.com)
-* 🧠  I'm learning Deno
+* 🧠  I'm learning Go
 
 ### Skills
 
