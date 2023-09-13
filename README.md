@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Desenvolvedor FullStack
 ---------------------
 
-Desenvolvedor fullstack em Typescript, C# e GO , familiarizado com suas ferramentas e frameworks
+Desenvolvedor fullstack em Typescript e GO , familiarizado com suas ferramentas e frameworks
 
 * 🌍  I'm based in Rio grande do Sul
 * ✉️  You can contact me at [ruhancorreasoares@gmail.com](mailto:ruhancorreasoares@gmail.com)
