@@ -8,7 +8,7 @@ Desenvolvedor fullstack em Typescript, C# e GO , familiarizado com suas ferramen
 
 * 🌍  I'm based in Rio grande do Sul
 * ✉️  You can contact me at [ruhancorreasoares@gmail.com](mailto:ruhancorreasoares@gmail.com)
-* 🧠  I'm learning Go
+
 
 ### Skills
 
